@@ -7,11 +7,12 @@ Its main focus is 3D interaction, but many topics may be implemented also in 2D 
 ## Scene List
 
 *  **Fungus3DDemo**: a game prototype involving collecting coins, powerups, activating triggers and avoiding traps.
+*  **CameraControl**: this example shows how to control 3D Camera using Fungus.
+*  **MouseAction**: this example shows how to create mouse interaction with a 3D object and a Flowchart in a scene.
+*  **MovingPillars**: this example shows how to move several items using a flowchart each.
 *  **MovingPlatform**: a simple scene where an FPS controller activates a moving platform and moves with it
 *  **Pickup**: this example shows how to pickup an object through a trigger..
 *  **Triggers**: this example shows how to activate a flowchart and execute it through a trigger. The flowchart will deactivate after a predefined time.
-*  **MouseAction**: this example shows how to create mouse interaction with a 3D object and a Flowchart in a scene.
-*  **MovingPillars**: this example shows how to move several items using a flowchart each.
 
 ## About
 Demos created by Marco Secchi ([marcosecchi.it](http://marcosecchi.it/)).

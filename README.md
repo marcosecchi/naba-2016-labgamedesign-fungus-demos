@@ -8,6 +8,7 @@ Its main focus is 3D interaction, but many topics may be implemented also in 2D 
 
 *  **Fungus3DDemo**: a game prototype involving collecting coins, powerups, activating triggers and avoiding traps.
 *  **CameraControl**: this example shows how to control 3D Camera using Fungus.
+*  **Dialogue**: this example shows how to use the Fungus dialogue system with a 3D character.
 *  **MouseAction**: this example shows how to create mouse interaction with a 3D object and a Flowchart in a scene.
 *  **MovingPillars**: this example shows how to move several items using a flowchart each.
 *  **MovingPlatform**: a simple scene where an FPS controller activates a moving platform and moves with it

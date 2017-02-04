@@ -5,6 +5,8 @@ Most of the examples were created on student request or as a solution for some t
 
 Its main focus is 3D interaction, but many topics may be implemented also in 2D design.
 
+*Note that most of the examples are just prototypes and should not be considered complete products.*
+
 ## Scene List
 
 *  **Fungus3DDemo**: a game prototype involving collecting coins, powerups, activating triggers and avoiding traps.
@@ -15,7 +17,8 @@ Its main focus is 3D interaction, but many topics may be implemented also in 2D 
 *  **MouseAction**: this example shows how to create mouse interaction with a 3D object and a Flowchart in a scene.
 *  **MovingPillars**: this example shows how to move several items using a flowchart each.
 *  **MovingPlatform**: a simple scene where an FPS controller activates a moving platform and moves with it
-*  **Pickup**: this example shows how to pickup an object through a trigger..
+*  **Pickup**: this example shows how to pickup an object through a trigger.
+*  **PoleClimbing**: this example shows how to climb a pole using a combination of triggers.
 *  **Traps**: this example shows how to create traps using Physics and Triggers.
 
 ## About

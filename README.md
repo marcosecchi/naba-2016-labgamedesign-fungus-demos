@@ -21,5 +21,9 @@ Its main focus is 3D interaction, but many topics may be implemented also in 2D 
 *  **PoleClimbing**: this example shows how to climb a pole using a combination of triggers.
 *  **Traps**: this example shows how to create traps using Physics and Triggers.
 
+![Unity3D and Fungus](http://www.marcosecchi.it/wp-content/uploads/2017/01/fungus_3d_01-1024x621.png)
+
+![Unity3D and Fungus](http://www.marcosecchi.it/wp-content/uploads/2017/01/fungus_3d_02-1024x686.png)
+
 ## About
 Demos created by Marco Secchi ([marcosecchi.it](http://marcosecchi.it/)).
